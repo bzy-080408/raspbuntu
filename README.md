@@ -21,4 +21,4 @@ a Ubuntu server for RPI4
 5.2G内存以下勿用，还是因为太卡，8G版也没有用，内存必须限制在3072MB
 
 # 发布日期
-今年
+none
